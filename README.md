@@ -47,7 +47,10 @@ Also used small-rye jwt and small-rye openapi
 Well Known info is available at `/auth/realms/esc/.well-known/openid-configuration`
 
 - [Keycloak on Docker](https://www.keycloak.org/getting-started/getting-started-docker)
-- 
+
+## General Reading
+
+- [AWS Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
 
 ## Useful Tools and Utilities
 
